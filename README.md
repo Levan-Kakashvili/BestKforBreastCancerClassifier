@@ -1,4 +1,4 @@
-# BestKforBreastCancerClassifier
+# BestKforBreastCancerClassifier (scikit-learn)
 Projects main purpose is to:  
 Find Best K Nearest Neighbors Value for Breast Cancer Classifier  
 Visualise connection between K value and Accuracy of the model  
